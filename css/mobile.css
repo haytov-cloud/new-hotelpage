@@ -34,3 +34,8 @@
 #contact-info .box{
     border-bottom: #444 dotted 1px;
 }
+
+
+.btn{
+    width: 100%;
+}
